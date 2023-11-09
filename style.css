@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(31, 139, 211)
+}
+#navegacao{
+   
+    display: flex;
+    list-style: none;
+    float: right;
+    margin-right: 200px;
+  }
+  div{
+    height: 100px;
+}
+ul li{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:#3A3A32;
+    border-radius: 10px;
+  
+}
+ul li a {
+    text-decoration: antiquewhite;
+    font-size: 20px;
+   
+}
+a { 
+    color: inherit; 
+} 
+.imagem{
+    margin: auto;
+  display: block;
+  text-align: center;
+}
+#totoro{
+    border: 1px solid black;
+}
+#totoro p{
+    text-align: justify;
+    margin-right: 90px;
+    margin-left: 90px;
+    text-indent: 30px;
+}
+#chihiro{
+    border: 1px solid black;
+    margin-top: 20px;
+}
+#chihiro p{
+    text-align: justify;
+    margin-right: 90px;
+    margin-left: 90px;
+    text-indent: 30px;
+}
+#castelo{
+    border: 1px solid black;
+    margin-top: 20px;
+}
+#castelo p{
+    text-align: justify;
+    margin-right: 90px;
+    margin-left: 90px;
+    text-indent: 30px;
+}
+#contato{
+    margin-top: 80px;
+}
